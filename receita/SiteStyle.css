@@ -1,0 +1,34 @@
+
+
+:root{
+  --audioProfessor: #041c32;
+  --audioEnviado: #555;
+  --diaLivre: #064663;
+  --receivedStudentAudio: crimson;
+  --setaVoltar: yellow;
+  --siteBackgroundColor: lightgreen;
+}
+
+body{
+  width: 100%;
+  margin: 0;
+  background-color: var(--siteBackgroundColor);
+}
+
+.containerImagem{
+    text-align: center;
+    float: left;
+}
+
+.Div2{
+    font-size: 20px;
+    width: 100%;
+    min-width: 250;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img{
+   text-align: center;
+}
+

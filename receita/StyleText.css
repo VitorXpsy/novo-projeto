@@ -1,0 +1,42 @@
+#menu li:hover{
+    background-color: #7A7A7A;
+}
+
+#menu a:hover{
+    color: #DAB5FF;
+}
+
+#menu li{
+    border: 1px solid #7A7A7A;
+    background-color: #DAB5FF;
+    display: inline-block;
+    float: left;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: #7A7A7A;
+    padding: 5px 10px;
+}
+
+#Começo{
+    text-align: center;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+.Preparo{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+.Ingredientes{
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
