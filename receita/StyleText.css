@@ -15,7 +15,7 @@
     font-family: sans-serif;
 }
 
- h1, h3{
+ h1,h2, h3{
         color: crimson;
          }
          li, ul, ol, p{
@@ -26,6 +26,14 @@
             color: black;
          }
 
+p{
+    margin-bottom: 0;
+}
+
+h2{
+    font-size: 25px;
+}
+
 .doces{
     text-align: center;
 }
@@ -33,4 +41,12 @@
 .salgados{
     text-align: center;
 }
-         
+
+.index{
+    text-align: center;
+}         
+
+.introducao{
+    font-style: unset;
+    font-weight: bolder;
+}
