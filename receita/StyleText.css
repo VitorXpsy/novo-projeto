@@ -10,7 +10,7 @@
 }
 
 .Ingredientes{
-    text-align: center;
+    text-align: var(--sitetext-align);
     text-decoration: underline;
     font-family: sans-serif;
 }
@@ -35,15 +35,15 @@ h2{
 }
 
 .doces{
-    text-align: center;
+    text-align: var(--sitetext-align);
 }
 
 .salgados{
-    text-align: center;
+    text-align: var(--sitetext-align);
 }
 
 .index{
-    text-align: center;
+    text-align: var(--sitetext-align);
 }         
 
 .introducao{

@@ -1,5 +1,6 @@
 :root{
   --siteBackgroundColor: lightgreen;
+  --sitetext-align:  center;
 }
 
 body{
@@ -10,7 +11,7 @@ body{
 }
 
 .containerImagem{
-    text-align: center;
+    text-align: var(--sitetext-align);
     float: left;
 }
 
@@ -23,7 +24,7 @@ body{
 }
 
 img{
-   text-align: center;
+   text-align: var(--sitetext-align);
 }
  
 .principal{
