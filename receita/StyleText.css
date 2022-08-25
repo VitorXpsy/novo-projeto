@@ -62,3 +62,11 @@ td{
 .tabela{
     background-color: #FF6347;
 }
+
+.links{
+    text-decoration: unset;
+}
+
+td:hover{
+    background-color: #A52A2A;
+}
