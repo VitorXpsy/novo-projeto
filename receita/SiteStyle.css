@@ -32,4 +32,7 @@ img{
     box-shadow: 0px 5px 10px black;
 }
 
-
+table{
+    background-color: #E9967A;
+    float: left;
+}
