@@ -27,7 +27,8 @@
             color: black;
          }
 
-p{
+p, <br>{
+
     margin-bottom: 0;
 }
 
