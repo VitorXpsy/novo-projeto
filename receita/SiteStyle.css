@@ -38,3 +38,7 @@ table{
     background-color: #E9967A;
     float: left;
 }
+
+td:hover{
+    background-color: #A52A2A;
+}
