@@ -102,6 +102,7 @@ button:active{
 
 .servicos{
 	padding-top: 1px;
+	width: 1000px;
 	height: 600px;
 	background-color: #ffffff;
 }
@@ -111,7 +112,7 @@ button:active{
 	font-weight: bold;
 	color: #3d3d3d;
 	font-size: 30px;
-	line-height: 0px;
+	line-height: 5px;
 }
 
 .servicos-textos p:nth-child(2){
@@ -120,24 +121,26 @@ button:active{
 	color: #3d3d3d;
 	font-size: 15px;
 	line-height: 5px;
+	padding-left: 20px;
 }
 
 .servicos-textos p:nth-child(3){
 	font-family: calibri;
 	color: #7e7d7d;
+	padding-left: 40px;
 }
 
 .servicos-textos{
 	width: 500px;
-	margin: 50px 0px 0 px 50px;
+	margin: 20px 0px 0px 5px;
 }
 
 .box1 , .box2 , .box3 , .box4{
 	width: 300px;
-	height: 400px;
+	height: 420px;
 	background-repeat: no-repeat;
 	background-size: cover;
-	box-shadow: 2px 2 px 12px rgba(0,0,0,0.3);
+	box-shadow: 2px 2px 12px rgba(0,0,0,0.3);
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -171,8 +174,8 @@ button:active{
 .box2 span,
 .box3 span,
 .box4 span{
-	width: 40px;
-	height: 40px;
+	width: 30px;
+	height: 30px;
 	border-radius: 50%;
 	background-color: #ffffff;
 	display: flex;
@@ -181,6 +184,11 @@ button:active{
 	font-family: calibri;
 	font-weight: bold;
 	margin-top: 10px;
+}
+
+.box3 span{
+	width: 25px;
+	height: 25px;
 }
 
 .box1 p:nth-child(2),
@@ -210,10 +218,13 @@ button:active{
 .box4 button{
 	width: 100px;
 	height: 30px;
-	background-color: #ffffff;
-	border: none;
+	background-color: #E6E6FA;
+	border: 2px solid #E6E6FA;
 	border-radius: 5px;
 	margin-bottom: 10px;
+}
+
+.box3 button{
 }
 
 /* Seção fale comigo */
