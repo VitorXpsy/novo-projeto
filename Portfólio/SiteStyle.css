@@ -37,11 +37,11 @@ button:active{
 /* Estilo da imagem de fundo do banner */
 
 .imgbg{
-	height: 490px;
+	height: 440px;
 	position: absolute;
 	bottom: 40px;
 	left: 67%;
-	transform: translateX(-70%);
+	transform: translateX(-60%);
 }
 
 .conteudo-sobre{
@@ -57,7 +57,8 @@ button:active{
 }
 
 .conteudo-sobre img{
-	height: 250px
+	height: 250px;
+	width: 330px;
 }
 
 .texto-sobre{
@@ -100,13 +101,14 @@ button:active{
 /* Seção de Serviços */
 
 .servicos{
+	padding-top: 1px;
 	height: 600px;
 	background-color: #ffffff;
 }
 
 .servicos-textos p:nth-child(1){
 	font-family: calibri;
-	font-weight: bold ;
+	font-weight: bold;
 	color: #3d3d3d;
 	font-size: 30px;
 	line-height: 0px;
@@ -132,7 +134,7 @@ button:active{
 
 .box1 , .box2 , .box3 , .box4{
 	width: 300px;
-	height: 320px;
+	height: 400px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	box-shadow: 2px 2 px 12px rgba(0,0,0,0.3);
@@ -145,7 +147,7 @@ button:active{
 .conteudo-box{
 	display: flex;
 	justify-content: space-between;
-	margin-left: 50px;
+	margin-left: 0px;
 	margin-right: 50px;
 }
 

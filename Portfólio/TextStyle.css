@@ -12,18 +12,6 @@ a{
 	text-decoration: none;
 }
 
-h1{
-	text-align: left;
-	color: #000000;
-}
-
-p{
-	font-family: Arial;
-            font-size: 22px;
-            font-weight: ;
-            color: #000000;
-         }
-
 /* Estilo Textos */
 
 .conteudo-texto p:nth-child(1){
