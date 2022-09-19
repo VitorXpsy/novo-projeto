@@ -337,9 +337,8 @@ footer p:nth-child(2){
  /* Página Contato */
 .contatogeral{
 	margin-top: 20px;
-	padding-top: 50px;
 	width: 1000px;
-	height: 400px;
+	height: 600px;
 	background-color: #FFFFFF;
 	border-radius: 20px;
 	box-shadow: 1px 2px 24px rgba(0,0,0,0.3);
@@ -347,24 +346,57 @@ footer p:nth-child(2){
 }
 
 .fonecontato{
-	padding-bottom: 195px;
+	padding-left: 50px;
+	padding-bottom: 400px;
 	width: 60px;
 	position: absolute;
-	bottom: 50px;
-	left: 19%;
+	bottom: 45px;
+	left: 3%;
 	transform: translateX(-20%);
 }
 
 .emailcontato{
-	padding-bottom: 105px;
+	padding-left: 50px;
+	padding-bottom: 345px;
 	width: 60px;
 	position: absolute;
-	bottom: 50px;
-	left: 19%;
+	bottom: 10px;
+	left: 3%;
 	transform: translateX(-20%);
 }
 
 .localcontato{
+	padding-left: 50px;
+	padding-bottom: 260px;
+	width: 60px;
+	position: absolute;
+	bottom: 5px;
+	left: 3%;
+	transform: translateX(-20%);
+}
+
+.facecontato{
+	padding-left: 50px;
+	padding-bottom: 170px;
+	width: 60px;
+	position: absolute;
+	bottom: 5px;
+	left: 3%;
+	transform: translateX(-20%);
+}
+
+.instacontato{
+	padding-left: 50px;
+	padding-bottom: 50px;
+	width: 60px;
+	position: absolute;
+	bottom: 5px;
+	left: 3%;
+	transform: translateX(-20%);
+}
+
+.whatsappcontato{
+	padding-left: 270px;
 	padding-bottom: 16px;
 	width: 60px;
 	position: absolute;
@@ -372,4 +404,3 @@ footer p:nth-child(2){
 	left: 19%;
 	transform: translateX(-20%);
 }
-
