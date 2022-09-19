@@ -82,10 +82,17 @@ h1{
 	text-decoration: underline green;
 }
 
+.titulocontato{
+	padding-left: 30px;
+	text-align: center;
+	text-decoration-color: red;
+}
+
 .infcontato{
 	text-decoration: underline indigo;
 	font-family: arial;
-	padding-top: 20px;
+	line-height: 0px;
+	padding-top: 80px;
 	padding-left: 80px;
 	font-weight: bold;
 }
@@ -96,23 +103,23 @@ h1{
 	position: relative;
 }
 
-.titulocontato{
-	padding-left: 30px;
-	text-align: center;
-	text-decoration-color: red;
-}
-
 .infcontato2{
+	list-style: none;
 	text-decoration: underline indigo;
 	font-family: arial;
-	padding-top: 20px;
-	float: right;
-	padding-left: 400px;
+	float: left;
+	bottom: 10px;
+	padding-top: 85px;
+	padding-left: 180px;
 	font-weight: bold;
 }
 
 .textcontato2{
-	font-family: calibri; 
-	padding-left: 600px;
+	font-family: calibri;
+	padding-top: 110px; 
+	line-height: 0px;
+	padding-left: 320px;
+	right: 140px;
+	bottom: -3px;
 	position: relative;
 }

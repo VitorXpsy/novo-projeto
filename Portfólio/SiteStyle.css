@@ -335,10 +335,11 @@ footer p:nth-child(2){
 }
 
  /* Página Contato */
+
 .contatogeral{
 	margin-top: 20px;
 	width: 1000px;
-	height: 600px;
+	height: 800px;
 	background-color: #FFFFFF;
 	border-radius: 20px;
 	box-shadow: 1px 2px 24px rgba(0,0,0,0.3);
@@ -347,60 +348,80 @@ footer p:nth-child(2){
 
 .fonecontato{
 	padding-left: 50px;
-	padding-bottom: 400px;
+	padding-bottom: 415px;
 	width: 60px;
 	position: absolute;
 	bottom: 45px;
-	left: 3%;
+	left: 5%;
 	transform: translateX(-20%);
 }
 
 .emailcontato{
 	padding-left: 50px;
-	padding-bottom: 345px;
+	padding-bottom: 315px;
 	width: 60px;
 	position: absolute;
 	bottom: 10px;
-	left: 3%;
+	left: 5%;
 	transform: translateX(-20%);
 }
 
 .localcontato{
 	padding-left: 50px;
-	padding-bottom: 260px;
+	padding-bottom: 195px;
 	width: 60px;
 	position: absolute;
 	bottom: 5px;
-	left: 3%;
+	left: 5%;
 	transform: translateX(-20%);
 }
 
 .facecontato{
 	padding-left: 50px;
-	padding-bottom: 170px;
+	padding-bottom: 450px;
 	width: 60px;
 	position: absolute;
-	bottom: 5px;
-	left: 3%;
+	bottom: 7px;
+	left: 17%;
 	transform: translateX(-20%);
 }
 
 .instacontato{
 	padding-left: 50px;
-	padding-bottom: 50px;
+	padding-bottom: 310px;
 	width: 60px;
 	position: absolute;
-	bottom: 5px;
-	left: 3%;
+	bottom: 7px;
+	left: 17%;
 	transform: translateX(-20%);
 }
 
 .whatsappcontato{
-	padding-left: 270px;
-	padding-bottom: 16px;
+	padding-left: 50px;
+	padding-bottom: 190px;
 	width: 60px;
 	position: absolute;
-	bottom: 50px;
-	left: 19%;
+	bottom: 7px;
+	left: 17%;
 	transform: translateX(-20%);
+}
+
+.primeiraparte{
+	margin-top: 0px;
+	float: left;
+	width: 500px;
+	height: 600px;
+	background-color: #FFFFFF;
+	box-shadow: 1px 2px 5px rgba(0,0,0,0.3);
+	position: relative;
+}
+
+.segundaparte{
+	margin-top: 0px;
+	float: right;
+	width: 500px;
+	height: 600px;
+	background-color: #FFFFFF;
+	box-shadow: 1px 2px 5px rgba(0,0,0,0.3);
+	position: relative;
 }
