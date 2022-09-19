@@ -323,6 +323,7 @@ footer p:nth-child(2){
 }
 
 .sobregeral{
+	margin-top: 20px;
 	padding-top: 50px;
 	width: 1000px;
 	height: 500px;
